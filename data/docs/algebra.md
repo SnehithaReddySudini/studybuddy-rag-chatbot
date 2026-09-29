@@ -1,0 +1,2 @@
+# Quadratic Equations
+A quadratic equation has the form ax^2 + bx + c = 0. It can be solved by factorisation, completing the square, or the quadratic formula: x = (-b ± sqrt(b^2 - 4ac)) / 2a. The discriminant D = b^2 - 4ac tells the nature of roots: D > 0 gives two real roots, D = 0 gives one repeated root, D < 0 gives no real roots. Example: x^2 - 5x + 6 = 0 factorises to (x-2)(x-3) = 0, so x = 2 or x = 3.

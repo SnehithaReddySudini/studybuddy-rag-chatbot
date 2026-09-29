@@ -1,0 +1,2 @@
+# Newton's Laws of Motion
+First law (inertia): an object stays at rest or in uniform motion unless acted on by a net external force. Second law: F = ma, force equals mass times acceleration. Third law: for every action there is an equal and opposite reaction. Example: a rocket pushes gas backwards and the gas pushes the rocket forwards. Units: force is measured in newtons (N), where 1 N = 1 kg m/s^2.

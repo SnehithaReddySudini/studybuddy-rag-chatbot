@@ -1,0 +1,2 @@
+# Photosynthesis
+Photosynthesis is the process by which green plants make food using sunlight, water and carbon dioxide. It happens in chloroplasts, which contain chlorophyll. The equation is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2. It has two stages: the light reactions (in thylakoids, produce ATP, NADPH and oxygen) and the Calvin cycle (in the stroma, uses ATP and NADPH to make glucose from CO2). Factors affecting the rate: light intensity, CO2 concentration, temperature and water availability.
